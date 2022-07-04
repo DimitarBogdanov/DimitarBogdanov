@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [the Marlin programming language](https://github.com/marlinlang/MarlinCompiler)!
 
-- 📫 You can reach me at **[my username] [at] yahoo [dot] com**
+- 📫 You can reach me at **[my username with a dot between my names] [at] yahoo [dot] com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
