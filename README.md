@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitar</h1>
 <h3 align="center">A teen from Bulgaria who loves to code!</h3>
 
-- 🔭 I’m currently working on [a 2D sandbox game](https://moonlinegames.net/)!
+- 🔭 I’m currently working on [a 2.5D sandbox game](https://moonlinegames.net/)!
 
 - 📫 You can reach me at **Discord/dimitar.bogdanov#0001**
 
