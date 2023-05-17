@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimitar</h1>
 <h3 align="center">A teen from Bulgaria who loves to code!</h3>
 
-- 🔭 I’m currently working on [the Hay programming language](https://github.com/haylang/hayc)!
+- 🔭 I’m currently working on [a 2D sandbox game](https://moonlinegames.net/)!
 
-- 📫 You can reach me at **[my username with a dot between my names] [at] yahoo [dot] com**
+- 📫 You can reach me at **Discord/dimitar.bogdanov#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
