@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://dev.to/dimitarbogdanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dimitarbogdanov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13580938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13580938" height="30" width="40" /></a>
+  or e-mail: hello@dimitar.gdn
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
