@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a 2.5D sandbox game](https://moonlinegames.net/)!
 
-- 📫 You can reach me at **Discord/dimitar.bogdanov#0001**
+- 📫 You can reach me at **Discord/sfbg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
